@@ -13,6 +13,7 @@ dependencies = [
     "pyodbc>=5.2.0",
     "scikit-learn",
     "setuptools>=79.0.0",
+    "autoviz>=0.1.902",
 ]
 
 [tool.uv.workspace]
