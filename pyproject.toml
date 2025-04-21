@@ -7,9 +7,12 @@ requires-python = ">=3.10"
 dependencies = [
     "dotenv>=0.9.9",
     "ipykernel>=6.29.5",
-    "pandas>=2.2.3",
+    "azureml-sdk==1.59.0",
+    "numpy==1.23.5",
+    "pandas",
     "pyodbc>=5.2.0",
-    "scikit-learn>=1.6.1",
+    "scikit-learn",
+    "setuptools>=79.0.0",
 ]
 
 [tool.uv.workspace]
