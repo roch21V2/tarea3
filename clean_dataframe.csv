@@ -1,0 +1,848 @@
+CustomerID,CompanyName,SalesPerson,ModifiedDate,salesperson_name,ModifiedYear,ModifiedMonth,ModifiedDay,Gender
+1,A Bike Store,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Male
+2,Progressive Sports,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Male
+3,Advanced Bike Components,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+4,Modular Cycle Systems,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Female
+5,Metropolitan Sports Supply,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+6,Aerobic Exercise Company,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Female
+7,Associated Bikes,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Male
+10,Rural Cycle Emporium,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+11,Sharp Bikes,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+12,Bikes and Motorbikes,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+16,Bulk Discount Store,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+18,Catalog Store,adventure-works\michael9,2005-08-01 00:00:00.000,michael,2005,8,1,Male
+19,Center Cycle Shop,adventure-works\pamela0,2007-04-01 00:00:00.000,pamela,2007,4,1,Male
+20,Central Discount Store,adventure-works\david8,2005-09-01 00:00:00.000,david,2005,9,1,Female
+21,Chic Department Stores,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Unknown
+22,Travel Systems,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Female
+23,Bike World,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+24,Eastside Department Store,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+25,Coalition Bike Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+28,Commuter Bicycle Store,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Female
+29,Cross-Country Riding Supplies,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+30,Cycle Merchants,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+34,Cycles Wholesaler & Mfg.,adventure-works\jae0,2007-07-01 00:00:00.000,jae,2007,7,1,Female
+37,Two Bike Shops,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Male
+38,Finer Mart,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Female
+39,Fitness Hotel,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+40,Journey Sporting Goods,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+41,Distant Inn,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Female
+42,Healthy Activity Store,adventure-works\linda3,2006-07-01 00:00:00.000,linda,2006,7,1,Male
+43,Frugal Bike Shop,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Female
+46,Gear-Shift Bikes Limited,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Male
+47,Greater Bike Store,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Female
+48,Grand Industries,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Female
+52,Instruments and Parts Company,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+55,Kickstands and Accessories Company,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+56,Latest Accessories Sales,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Male
+57,Leading Sales & Repair,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+58,Largest Bike Store,adventure-works\jillian0,2005-11-01 00:00:00.000,jillian,2005,11,1,Male
+59,Locks Company,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+60,Main Bicycle Services,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Male
+61,Many Bikes Store,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+64,Metal Clearing House,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+65,Metro Manufacturing,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+66,Neighborhood Store,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+70,Outdoor Aerobic Systems Company,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Male
+73,Outdoor Sports Supply,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+74,Parcel Express Delivery Service,adventure-works\david8,2005-11-01 00:00:00.000,david,2005,11,1,Male
+75,Paint Supply,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+76,Out-of-the-Way Hotels,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+77,Mechanical Products Ltd.,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+78,Preferred Bikes,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+79,Reasonable Bicycle Sales,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+82,Refined Department Stores,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Male
+83,Requisite Part Supply,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Male
+84,Rewarding Activities Company,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Female
+88,Closest Bicycle Store,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+91,Scooters and Bikes Store,adventure-works\pamela0,2005-09-01 00:00:00.000,pamela,2005,9,1,Female
+92,Sports Commodities,adventure-works\david8,2005-09-01 00:00:00.000,david,2005,9,1,Female
+93,Stationary Bikes and Stands,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+94,Specialty Sports Store,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Male
+95,Rural Department Store,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Female
+96,More Bikes!,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Female
+97,Mountain Bike Center,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+100,Up-To-Date Sports,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+101,Urban Sports Emporium,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Male
+102,National Manufacturing,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Female
+106,West Side Mart,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+109,Travel Sports,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+110,Vintage Sport Boutique,adventure-works\david8,2007-07-01 00:00:00.000,david,2007,7,1,Female
+111,Westside Cycle Store,adventure-works\jillian0,2005-12-01 00:00:00.000,jillian,2005,12,1,Male
+112,Town Industries,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Female
+113,Trendy Department Stores,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+114,Two Wheels Cycle Store,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Male
+115,Security Racks and Locks Wholesalers,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+118,Rapid Bikes,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+119,Red Bicycle Company,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Female
+120,Machines & Cycles Store,adventure-works\garrett1,2007-07-01 00:00:00.000,garrett,2007,7,1,Male
+124,Nearby Sporting Goods,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+127,Front Sporting Goods,adventure-works\pamela0,2006-08-01 00:00:00.000,pamela,2006,8,1,Male
+128,Demand Distributors,adventure-works\david8,2006-06-01 00:00:00.000,david,2006,6,1,Female
+129,Discount Bicycle Specialists,adventure-works\jillian0,2005-11-01 00:00:00.000,jillian,2005,11,1,Female
+130,Elite Bikes,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+131,Eighth Bike Store,adventure-works\shu0,2007-08-01 00:00:00.000,shu,2007,8,1,Female
+132,Another Sporting Goods Company,adventure-works\linda3,2007-08-01 00:00:00.000,linda,2007,8,1,Female
+133,Commercial Sporting Goods,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+136,Wholesale Parts,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+137,Transportation Options,adventure-works\josé1,2005-11-01 00:00:00.000,josé,2005,11,1,Unknown
+138,South Bike Company,adventure-works\garrett1,2007-08-01 00:00:00.000,garrett,2007,8,1,Female
+142,Riding Cycles,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+145,Raw Materials Inc,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Male
+146,Latest Sports Equipment,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Male
+147,Local Hardware Factory,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+148,Lots of Bikes Storehouse,adventure-works\jillian0,2005-11-01 00:00:00.000,jillian,2005,11,1,Male
+149,Initial Bike Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+150,Fleet Bikes,adventure-works\linda3,2006-08-01 00:00:00.000,linda,2006,8,1,Female
+151,Futuristic Bikes,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+154,Camping and Sports Store,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+155,Corner Bicycle Supply,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+156,Metal Processing Company,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Male
+160,Vigorous Sports Store,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Female
+163,Sports Merchandise,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+164,Suburban Cycle Shop,adventure-works\david8,2005-08-01 00:00:00.000,david,2005,8,1,Female
+165,Third Bike Store,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+166,Fitness Toy Store,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Female
+167,Farthermost Bike Shop,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+168,Economy Bikes Company,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+169,Downtown Hotel,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+172,Certified Sports Supply,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Female
+173,Sundry Sporting Goods,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+174,Toy Manufacturing Inc,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Male
+178,Rampart Amusement Company,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Male
+180,Full-Service Bike Store,adventure-works\michael9,2005-09-01 00:00:00.000,michael,2005,9,1,Female
+181,Family Entertainment Center,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Male
+182,Another Bicycle Company,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Male
+183,This Area Sporting Goods,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Male
+184,Go-cart and Bike Specialists,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Female
+185,Weekend Bike Tours,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+186,Thrilling Bike Tours,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Male
+187,Trailblazing Sports,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+190,Racing Partners,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+191,Non-Slip Pedal Company,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+192,Nuts and Bolts Mfg.,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+196,Exhibition Showroom,adventure-works\jae0,2007-07-01 00:00:00.000,jae,2007,7,1,Female
+197,"Fabrikam Inc., West",adventure-works\michael9,2006-09-01 00:00:00.000,michael,2006,9,1,Female
+198,Field Trip Inc,adventure-works\michael9,2005-11-01 00:00:00.000,michael,2005,11,1,Male
+199,Authorized Bike Sales and Rental,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Male
+200,Basic Bike Company,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Female
+201,Unsurpassed Bikes,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Female
+202,Two-Seater Bikes,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Unknown
+203,Separate Parts Corporation,adventure-works\shu0,2005-07-01 00:00:00.000,shu,2005,7,1,Female
+204,Traction Tire Company,adventure-works\linda3,2005-07-01 00:00:00.000,linda,2005,7,1,Male
+205,Rally Master Company Inc,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+208,Professional Cyclists,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+209,Purple Bicycle Company,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+210,Gasless Cycle Shop,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+214,Exclusive Bicycle Mart,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+217,City Manufacturing,adventure-works\pamela0,2006-11-01 00:00:00.000,pamela,2006,11,1,Male
+218,Sure & Reliable Sporting Goods,adventure-works\david8,2005-08-01 00:00:00.000,david,2005,8,1,Male
+219,Extras Sporting Goods,adventure-works\jillian0,2007-03-01 00:00:00.000,jillian,2007,3,1,Male
+220,Best o' Bikes,adventure-works\jillian0,2007-07-01 00:00:00.000,jillian,2007,7,1,Male
+221,Bike Dealers Association,adventure-works\shu0,2005-07-01 00:00:00.000,shu,2005,7,1,Female
+222,Sample Bike Store,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Male
+223,Paints and Solvents Company,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Female
+226,Leisure Activities,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+227,"Health Spa, Limited",adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Female
+228,Home Town Bike Store,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Female
+232,Exceptional Cycle Services,adventure-works\jae0,2007-07-01 00:00:00.000,jae,2007,7,1,Male
+235,Certified Bicycle Supply,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Female
+236,Closeout Boutique,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Female
+237,Client Discount Store,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+238,A Great Bicycle Company,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+239,Bicycle Merchandise Warehouse,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Female
+240,Wire Baskets and Parts,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+241,Vale Riding Supplies,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+244,Retail Discount Store,adventure-works\josé1,2008-06-01 00:00:00.000,josé,2008,6,1,Male
+245,Leather Seat Factory,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Male
+246,Large Bike Shop,adventure-works\garrett1,2006-07-01 00:00:00.000,garrett,2006,7,1,Female
+250,Express Bike Services,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+253,Roving Sports,adventure-works\pamela0,2006-07-01 00:00:00.000,pamela,2006,7,1,Male
+254,Safe Cycles Shop,adventure-works\david8,2006-09-01 00:00:00.000,david,2006,9,1,Male
+255,Swift Cycles,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+256,Rental Bikes,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+257,Number 1 Supply,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+258,Quantity Discounts,adventure-works\linda3,2006-08-01 00:00:00.000,linda,2006,8,1,Male
+259,Highway Bike Shop,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+262,General Industries,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+263,Farthest Bike Store,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+264,Fasteners & Bolts Outlet,adventure-works\garrett1,2007-08-01 00:00:00.000,garrett,2007,8,1,Female
+268,Channel Outlet,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+271,Alternative Vehicles,adventure-works\pamela0,2005-11-01 00:00:00.000,pamela,2005,11,1,Male
+272,Metro Cycle Shop,adventure-works\david8,2005-09-01 00:00:00.000,david,2005,9,1,Male
+273,A Typical Bike Shop,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+274,Active Systems,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Female
+275,Outdoor Sporting Goods,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+276,Thrifty Parts and Sales,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Male
+277,The Bicycle Accessories Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+280,Standard Bikes,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Male
+281,Petroleum Products Distributors,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Female
+282,Quick Parts and Service,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Male
+286,Number One Bike Co.,adventure-works\jae0,2006-07-01 00:00:00.000,jae,2006,7,1,Male
+287,Handy Bike Services,adventure-works\michael9,2005-08-01 00:00:00.000,michael,2005,8,1,Male
+288,Kickstand Sellers,adventure-works\michael9,2006-12-01 00:00:00.000,michael,2006,12,1,Male
+289,Moderately-Priced Bikes Store,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+290,Friendly Bike Shop,adventure-works\david8,2006-07-01 00:00:00.000,david,2006,7,1,Male
+291,Grand Bicycle Stores,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+292,Grease and Oil Products Company,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Male
+293,Fashionable Bikes and Accessories,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+294,Flawless Bike Shop,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Male
+295,Engineered Bike Systems,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+298,City Cycling,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+299,Citywide Service and Repair,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Male
+300,Nice Bikes,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+304,Essential Bike Works,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+306,Work and Play Association,adventure-works\michael9,2006-09-01 00:00:00.000,michael,2006,9,1,Male
+307,Riding Associates,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Female
+308,Rugged Bikes,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Female
+309,The Gear Store,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+310,Orange Bicycle Company,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Male
+311,Principal Bike Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+312,Resale Services,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+313,Metropolitan Manufacturing,adventure-works\shu0,2005-11-01 00:00:00.000,shu,2005,11,1,Male
+316,Low Price Cycles,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+317,Finer Riding Supplies,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+318,First-Rate Outlet,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Female
+322,Tachometers and Accessories,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+323,Metro Bike Works,adventure-works\michael9,2006-08-01 00:00:00.000,michael,2006,8,1,Male
+325,All Cycle Shop,adventure-works\pamela0,2006-07-01 00:00:00.000,pamela,2006,7,1,Female
+326,Year-Round Sports,adventure-works\david8,2005-08-01 00:00:00.000,david,2005,8,1,Male
+327,World of Bikes,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+328,Totes & Baskets Company,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+329,"Unicycles, Bicycles, and Tricycles",adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Unknown
+330,The New Bike Store,adventure-works\linda3,2005-12-01 00:00:00.000,linda,2005,12,1,Male
+331,Technical Parts Manufacturing,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Female
+334,Retreat Inn,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+335,Scratch-Resistant Finishes Company,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+336,Primary Bike Distributors,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+340,Nearby Cycle Shop,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+343,Mail-Order Outlet,adventure-works\pamela0,2006-08-01 00:00:00.000,pamela,2006,8,1,Female
+344,Fifth Bike Store,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Female
+345,Genial Bike Associates,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+346,Great Bicycle Supply,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+347,Bike Universe,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Female
+348,Bold Bike Accessories,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+349,Exercise Center,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+352,Twelfth Bike Store,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Male
+353,Two-Wheeled Transit Company,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+354,Serious Cycles,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+358,Mail Market,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Male
+360,Novelty Bikes,adventure-works\michael9,2007-08-01 00:00:00.000,michael,2007,8,1,Female
+361,Fitness Supplies,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Female
+362,Grand Cycle Store,adventure-works\david8,2007-08-01 00:00:00.000,david,2007,8,1,Female
+363,Immense Manufacturing Company,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Male
+364,District Mall,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+365,Distinctive Store,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+366,Extended Bike Sales,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Female
+367,Brown Bicycle Company,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+370,Acceptable Sales & Service,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+371,Custom Sales and Service,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+372,Top Bike Market,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Female
+376,Commerce Bicycle Specialists,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+377,Grand Sport Boutique,adventure-works\michael9,2006-08-01 00:00:00.000,michael,2006,8,1,Male
+379,Fad Outlet,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Male
+380,First Department Stores,adventure-works\david8,2006-07-01 00:00:00.000,david,2006,7,1,Female
+381,Bicycle Lines Distributors,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+382,Beneficial Exercises and Activities,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+383,Vehicle Shop,adventure-works\shu0,2005-10-01 00:00:00.000,shu,2005,10,1,Male
+384,Sparkling Paint and Finishes,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+385,Sturdy Toys,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+388,Road Way Sales and Rental,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Male
+389,Sixth Bike Store,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+390,Plastic Parts Company,adventure-works\garrett1,2005-11-01 00:00:00.000,garrett,2005,11,1,Male
+394,Little Sports Center,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+395,Online Bike Sellers,adventure-works\michael9,2006-09-01 00:00:00.000,michael,2006,9,1,Female
+397,Capable Sales and Service,adventure-works\pamela0,2005-07-01 00:00:00.000,pamela,2005,7,1,Male
+398,Commendable Bikes,adventure-works\david8,2006-07-01 00:00:00.000,david,2006,7,1,Female
+399,Big Cycle Mall,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Male
+400,Local Sales and Rental,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Male
+401,Brightwork Company,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+402,Pro Sporting Goods,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Female
+403,Affordable Sports Equipment,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Female
+406,The Commissary,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Male
+407,Workout Emporium,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+408,Odometers and Accessories Company,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Male
+412,Leisure Clearing House,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+415,Imaginary Toys,adventure-works\pamela0,2006-07-01 00:00:00.000,pamela,2006,7,1,Male
+416,Impromptu Trips,adventure-works\david8,2006-07-01 00:00:00.000,david,2006,7,1,Female
+417,Genuine Bike Shop,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+418,Good Bike Shop,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+419,Exertion Activities Club,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+420,Extreme Riding Supplies,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Male
+421,Fitness Cycling,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+424,Bikes for Two,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Male
+425,Bikes for Kids and Adults,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Male
+426,Custom Accessories Company,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+430,Uttermost Bike Shop,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Male
+431,Small Cycle Store,adventure-works\michael9,2005-07-01 00:00:00.000,michael,2005,7,1,Male
+433,Thorough Parts and Repair Services,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+434,Road-Way Mart,adventure-works\david8,2006-10-01 00:00:00.000,david,2006,10,1,Male
+435,Satin Finish Company,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+436,Sheet Metal Manufacturing,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+437,Professional Cycle Store,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Female
+438,Remarkable Bike Store,adventure-works\linda3,2005-12-01 00:00:00.000,linda,2005,12,1,Male
+439,Regional Manufacturing,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+442,Original Bicycle Supply Company,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Female
+443,Courteous Bicycle Specialists,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+444,Finer Cycle Shop,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+448,Action Bicycle Specialists,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+451,Roadway Bike Emporium,adventure-works\pamela0,2007-07-01 00:00:00.000,pamela,2007,7,1,Male
+452,A Cycle Shop,adventure-works\david8,2007-07-01 00:00:00.000,david,2007,7,1,Female
+453,Unique Bikes,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+454,Sleek Bikes ,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Female
+455,Timely Shipping Service,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+456,Riding Excursions,adventure-works\linda3,2006-01-01 00:00:00.000,linda,2006,1,1,Male
+457,Retail Sporting Equipment,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+460,Price-Cutter Discount Bikes,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Female
+461,Active Life Toys,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Male
+462,General Riding Supplies,adventure-works\garrett1,2007-02-01 00:00:00.000,garrett,2007,2,1,Male
+466,Central Bicycle Specialists,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+468,Blue Bicycle Company,adventure-works\michael9,2006-08-01 00:00:00.000,michael,2006,8,1,Male
+469,Vast Bike Sales and Rental,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+470,Wingtip Toys,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Female
+471,Social Activities Club,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+472,Summer Sports Place,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+473,Racing Toys,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+474,Retail Cycle Shop,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+475,Real Sporting Goods,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Male
+478,Major Cycling,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+479,General Supplies,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+480,General Bike Corporation,adventure-works\garrett1,2005-07-01 00:00:00.000,garrett,2005,7,1,Female
+484,Downhill Bicycle Specialists,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Male
+487,Bike Experts,adventure-works\pamela0,2006-08-01 00:00:00.000,pamela,2006,8,1,Female
+488,Bicycle Accessories and Kits,adventure-works\david8,2009-05-16 16:33:33.107,david,2009,5,16,Female
+489,Cash & Carry Bikes,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+490,Extraordinary Bike Works,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+491,Area Bike Accessories,adventure-works\shu0,2009-05-16 16:33:33.090,shu,2009,5,16,Female
+492,Basic Sports Equipment,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+493,Valley Bicycle Distributors,adventure-works\shu0,2006-11-01 00:00:00.000,shu,2006,11,1,Male
+496,Top Sports Supply,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Female
+497,Valley Toy Store,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+498,Quick Delivery Service,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Female
+502,Metropolitan Bicycle Supply,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+504,Historic Bicycle Sales,adventure-works\michael9,2005-07-01 00:00:00.000,michael,2005,7,1,Female
+505,Honest Repair Service,adventure-works\pamela0,2007-07-01 00:00:00.000,pamela,2007,7,1,Male
+506,Great Bikes ,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Male
+507,Global Sporting Goods,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Male
+508,Designer Department Stores,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Male
+509,Fun Toys and Bikes,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+510,World Bike Discount Store,adventure-works\linda3,2005-07-01 00:00:00.000,linda,2005,7,1,Male
+511,Wheel Gallery,adventure-works\shu0,2005-07-01 00:00:00.000,shu,2005,7,1,Male
+514,Retail Mall,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Male
+515,Rural Bicycle Supply,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Male
+516,Seats and Saddles Company,adventure-works\garrett1,2006-11-01 00:00:00.000,garrett,2006,11,1,Male
+520,Metro Metals Co.,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+523,Futuristic Sport Distributors,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Female
+526,Finer Sales and Service,adventure-works\josé1,2005-12-01 00:00:00.000,josé,2005,12,1,Male
+527,Fun Times Club,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Female
+528,Alpine Ski House,adventure-works\linda3,2005-11-01 00:00:00.000,linda,2005,11,1,Female
+529,Big-Time Bike Store,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Female
+532,The Showroom,adventure-works\josé1,2005-11-01 00:00:00.000,josé,2005,11,1,Female
+533,Tenth Bike Store,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+534,Recommended Bicycles,adventure-works\garrett1,2005-11-01 00:00:00.000,garrett,2005,11,1,Male
+538,Prosperous Tours,adventure-works\jae0,2006-07-01 00:00:00.000,jae,2006,7,1,Male
+541,Nonskid Tire Company,adventure-works\pamela0,2005-11-01 00:00:00.000,pamela,2005,11,1,Male
+542,Finer Parts Shop,adventure-works\david8,2005-12-01 00:00:00.000,david,2005,12,1,Male
+543,Friendly Neighborhood Bikes,adventure-works\jillian0,2007-06-01 00:00:00.000,jillian,2007,6,1,Male
+544,Valley Bicycle Specialists,adventure-works\jillian0,2009-05-16 16:33:33.123,jillian,2009,5,16,Male
+545,Finish and Sealant Products,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+546,Field Trip Store,adventure-works\linda3,2006-08-01 00:00:00.000,linda,2006,8,1,Male
+547,Curbside Sporting Goods,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Female
+550,Remote Bicycle Specialists,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+551,Vinyl and Plastic Goods Corporation,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+552,Consolidated Messenger,adventure-works\garrett1,2007-08-01 00:00:00.000,garrett,2007,8,1,Male
+556,Variety Cycling,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+559,Some Discount Store,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+560,Major Sport Suppliers,adventure-works\david8,2007-07-01 00:00:00.000,david,2007,7,1,Male
+561,Mountain Toy Store,adventure-works\jillian0,2005-12-01 00:00:00.000,jillian,2005,12,1,Male
+562,Practical Bike Supply Company,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+563,Systematic Sales,adventure-works\shu0,2007-08-01 00:00:00.000,shu,2007,8,1,Male
+564,Imported and Domestic Cycles,adventure-works\linda3,2007-05-01 00:00:00.000,linda,2007,5,1,Female
+565,Metallic Paint and Overcoat Co,adventure-works\shu0,2007-05-01 00:00:00.000,shu,2007,5,1,Male
+568,Economy Center,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+569,Designated Distributors,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+570,Family's Favorite Bike Shop,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+574,Area Sheet Metal Supply,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+577,Synthetic Materials Manufacturing,adventure-works\pamela0,2006-01-01 00:00:00.000,pamela,2006,1,1,Male
+578,The Bike Shop,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Female
+579,Riders Company,adventure-works\jillian0,2009-05-16 16:33:33.077,jillian,2009,5,16,Female
+580,Rural Sales and Service,adventure-works\jillian0,2006-03-01 00:00:00.000,jillian,2006,3,1,Male
+581,Safe Toys,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+582,Professional Sales and Service,adventure-works\linda3,2009-05-16 16:33:33.077,linda,2009,5,16,Female
+583,Professional Containers and Packaging Co.,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Female
+586,One Bike Company,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+587,Our Sporting Goods Store,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+588,General Cycle Storehouse,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Male
+592,Cycling Goods,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Male
+595,Cycle Clearance,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+596,Coho Sports,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Female
+597,All Seasons Sports Supply,adventure-works\jillian0,2007-07-01 00:00:00.000,jillian,2007,7,1,Male
+598,Black Bicycle Company,adventure-works\jillian0,2007-02-01 00:00:00.000,jillian,2007,2,1,Male
+599,Westside Plaza,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+600,Strenuous Exercise Shop,adventure-works\linda3,2007-07-01 00:00:00.000,linda,2007,7,1,Female
+601,Transport Bikes,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+604,Sellers of Cycles,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Female
+605,Outstanding Cycles,adventure-works\david8,2007-08-01 00:00:00.000,david,2007,8,1,Male
+606,Little Bicycle Supply Shop,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Female
+607,Maintenance and Repair for Bicycles,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Female
+608,Golf and Cycle Store,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+609,Good Toys,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+610,Fitness Department Stores,adventure-works\shu0,2007-08-01 00:00:00.000,shu,2007,8,1,Female
+613,Famous Bike Shop,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+617,Tubeless Tire Company,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+620,Tires and Tubes,adventure-works\pamela0,2005-07-01 00:00:00.000,pamela,2005,7,1,Male
+621,Running and Cycling Gear,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Male
+622,Gift and Toy Store,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Male
+623,Hardware Components,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Female
+624,First Cycle Store,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+625,Major Sporting Goods,adventure-works\linda3,2007-02-01 00:00:00.000,linda,2007,2,1,Female
+626,Retail Sporting Goods,adventure-works\shu0,2006-10-01 00:00:00.000,shu,2006,10,1,Male
+629,Efficient Cycling,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+630,Eastside Parts Shop,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+631,Tandem Sales and Service,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Male
+635,Sports Store,adventure-works\jae0,2006-12-01 00:00:00.000,jae,2006,12,1,Male
+637,Reliable Retail Center,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+641,Extended Tours,adventure-works\jae0,2006-07-01 00:00:00.000,jae,2006,7,1,Female
+643,Friendly Bike Shop,adventure-works\michael9,2005-10-01 00:00:00.000,michael,2005,10,1,Female
+644,Convenient Sales and Service,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Male
+645,Superior Hardware Distributors,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Male
+646,Yellow Bicycle Company,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Male
+647,Solid Bike Parts,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+648,Small Bike Shop,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+649,Sports Products Store,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+650,Permanent Finish Products,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Female
+653,Mercantile Outlet,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+654,Online Bike Warehouse,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Male
+655,Operational Manufacturing,adventure-works\garrett1,2008-06-01 00:00:00.000,garrett,2008,6,1,Female
+659,Shipping Specialists,adventure-works\jae0,2008-02-01 00:00:00.000,jae,2008,2,1,Male
+660,Exhilarating Cycles,adventure-works\michael9,2006-07-01 00:00:00.000,michael,2006,7,1,Male
+661,General Department Stores,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+665,Authentic Sales and Service,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+668,Official Parts Shop,adventure-works\pamela0,2006-07-01 00:00:00.000,pamela,2006,7,1,Female
+669,Racing Bike Outlet,adventure-works\david8,2006-11-01 00:00:00.000,david,2006,11,1,Female
+670,First Bike Store,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Female
+671,"Contoso, Ltd.",adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Female
+672,Utilitarian Sporting Goods,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+673,Countryside Company,adventure-works\linda3,2006-10-01 00:00:00.000,linda,2006,10,1,Male
+674,Discount Tours,adventure-works\shu0,2005-12-01 00:00:00.000,shu,2005,12,1,Female
+677,Tire Exchange,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+678,Vigorous Exercise Company,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+679,Superb Sales and Repair,adventure-works\garrett1,2005-07-01 00:00:00.000,garrett,2005,7,1,Female
+683,Oils and Fluids Warehouse,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+685,Family Cycle Store,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+689,Consumer Equipment,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+692,Successful Sales Company,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Female
+693,Stock Parts and Supplies,adventure-works\david8,2007-08-01 00:00:00.000,david,2007,8,1,Male
+694,The Accessories Store,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+695,Responsible Bike Dealers,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+696,Roadway Supplies,adventure-works\shu0,2005-11-01 00:00:00.000,shu,2005,11,1,Male
+697,Brakes and Gears,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+698,Western Bike Supplies,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Male
+701,Future Bikes,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Female
+29485,Professional Sales and Service,adventure-works\linda3,2009-05-16 16:33:33.077,linda,2009,5,16,Female
+29486,Riders Company,adventure-works\jillian0,2009-05-16 16:33:33.077,jillian,2009,5,16,Female
+29489,Area Bike Accessories,adventure-works\shu0,2009-05-16 16:33:33.090,shu,2009,5,16,Female
+29490,Bicycle Accessories and Kits,adventure-works\david8,2009-05-16 16:33:33.107,david,2009,5,16,Female
+29492,Valley Bicycle Specialists,adventure-works\jillian0,2009-05-16 16:33:33.123,jillian,2009,5,16,Male
+29494,Vinyl and Plastic Goods Corporation,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+29496,Fun Toys and Bikes,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+29497,Great Bikes ,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Male
+29499,Valley Toy Store,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+29502,Major Sport Suppliers,adventure-works\david8,2007-07-01 00:00:00.000,david,2007,7,1,Male
+29503,Family's Favorite Bike Shop,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+29505,Imported and Domestic Cycles,adventure-works\linda3,2007-05-01 00:00:00.000,linda,2007,5,1,Female
+29506,Systematic Sales,adventure-works\shu0,2007-08-01 00:00:00.000,shu,2007,8,1,Male
+29508,Mountain Toy Store,adventure-works\jillian0,2005-12-01 00:00:00.000,jillian,2005,12,1,Male
+29510,Designated Distributors,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+29511,Bold Bike Accessories,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+29515,Serious Cycles,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+29517,Novelty Bikes,adventure-works\michael9,2007-08-01 00:00:00.000,michael,2007,8,1,Female
+29521,Brightwork Company,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+29522,Resale Services,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+29523,The Gear Store,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+29524,Immense Manufacturing Company,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Male
+29525,Extended Bike Sales,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Female
+29527,Workout Emporium,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+29528,Work and Play Association,adventure-works\michael9,2006-09-01 00:00:00.000,michael,2006,9,1,Male
+29530,Nice Bikes,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+29531,Remarkable Bike Store,adventure-works\linda3,2005-12-01 00:00:00.000,linda,2005,12,1,Male
+29532,Road-Way Mart,adventure-works\david8,2006-10-01 00:00:00.000,david,2006,10,1,Male
+29533,Small Cycle Store,adventure-works\michael9,2005-07-01 00:00:00.000,michael,2005,7,1,Male
+29535,Grand Bicycle Stores,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+29536,Kickstand Sellers,adventure-works\michael9,2006-12-01 00:00:00.000,michael,2006,12,1,Male
+29539,Gasless Cycle Shop,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+29541,Transportation Options,adventure-works\josé1,2005-11-01 00:00:00.000,josé,2005,11,1,Unknown
+29544,Finer Cycle Shop,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+29545,Center Cycle Shop,adventure-works\pamela0,2007-04-01 00:00:00.000,pamela,2007,4,1,Male
+29546,Bulk Discount Store,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+29548,First-Rate Outlet,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Female
+29550,Another Bicycle Company,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Male
+29553,Unsurpassed Bikes,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Female
+29554,Field Trip Inc,adventure-works\michael9,2005-11-01 00:00:00.000,michael,2005,11,1,Male
+29557,Odometers and Accessories Company,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Male
+29558,Scratch-Resistant Finishes Company,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+29559,Safe Cycles Shop,adventure-works\david8,2006-09-01 00:00:00.000,david,2006,9,1,Male
+29560,Number 1 Supply,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+29562,Golf and Cycle Store,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+29565,World Bike Discount Store,adventure-works\linda3,2005-07-01 00:00:00.000,linda,2005,7,1,Male
+29566,Historic Bicycle Sales,adventure-works\michael9,2005-07-01 00:00:00.000,michael,2005,7,1,Female
+29567,Commuter Bicycle Store,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Female
+29568,Coalition Bike Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29569,Travel Systems,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Female
+29570,Grease and Oil Products Company,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Male
+29571,Moderately-Priced Bikes Store,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+29573,Economy Bikes Company,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+29574,Third Bike Store,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+29576,Bikes for Two,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Male
+29577,Metal Processing Company,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Male
+29579,Initial Bike Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29580,Latest Sports Equipment,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Male
+29582,Raw Materials Inc,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Male
+29583,Lots of Bikes Storehouse,adventure-works\jillian0,2005-11-01 00:00:00.000,jillian,2005,11,1,Male
+29584,Futuristic Bikes,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29585,Parcel Express Delivery Service,adventure-works\david8,2005-11-01 00:00:00.000,david,2005,11,1,Male
+29587,Prosperous Tours,adventure-works\jae0,2006-07-01 00:00:00.000,jae,2006,7,1,Male
+29588,Nonskid Tire Company,adventure-works\pamela0,2005-11-01 00:00:00.000,pamela,2005,11,1,Male
+29590,Metro Bike Works,adventure-works\michael9,2006-08-01 00:00:00.000,michael,2006,8,1,Male
+29591,Best o' Bikes,adventure-works\jillian0,2007-07-01 00:00:00.000,jillian,2007,7,1,Male
+29593,Client Discount Store,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+29596,Requisite Part Supply,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Male
+29598,Mechanical Products Ltd.,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+29599,Commendable Bikes,adventure-works\david8,2006-07-01 00:00:00.000,david,2006,7,1,Female
+29600,Online Bike Sellers,adventure-works\michael9,2006-09-01 00:00:00.000,michael,2006,9,1,Female
+29601,Custom Accessories Company,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+29603,Courteous Bicycle Specialists,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+29605,Professional Cycle Store,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Female
+29606,Fifth Bike Store,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Female
+29608,Farthest Bike Store,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+29611,Alternative Vehicles,adventure-works\pamela0,2005-11-01 00:00:00.000,pamela,2005,11,1,Male
+29612,Channel Outlet,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+29614,Retail Mall,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Male
+29615,Metro Metals Co.,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+29616,Sheet Metal Manufacturing,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+29617,Thorough Parts and Repair Services,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+29618,Uttermost Bike Shop,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Male
+29620,Two-Wheeled Transit Company,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+29622,Metro Cycle Shop,adventure-works\david8,2005-09-01 00:00:00.000,david,2005,9,1,Male
+29623,Outdoor Sporting Goods,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+29625,Petroleum Products Distributors,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Female
+29627,Bikes and Motorbikes,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+29629,Camping and Sports Store,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+29631,Rural Department Store,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Female
+29632,Sports Commodities,adventure-works\david8,2005-09-01 00:00:00.000,david,2005,9,1,Female
+29635,Responsible Bike Dealers,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+29636,Western Bike Supplies,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Male
+29637,Advanced Bike Components,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+29638,Aerobic Exercise Company,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Female
+29639,Corner Bicycle Supply,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+29641,Westside Plaza,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+29643,Outstanding Cycles,adventure-works\david8,2007-08-01 00:00:00.000,david,2007,8,1,Male
+29644,Vigorous Sports Store,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Female
+29645,Sports Merchandise,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+29646,Fitness Toy Store,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Female
+29649,General Cycle Storehouse,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Male
+29650,Fitness Cycling,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+29651,Good Bike Shop,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+29653,Thrilling Bike Tours,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Male
+29654,This Area Sporting Goods,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Male
+29655,Full-Service Bike Store,adventure-works\michael9,2005-09-01 00:00:00.000,michael,2005,9,1,Female
+29659,Genuine Bike Shop,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+29660,Extreme Riding Supplies,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Male
+29662,Fleet Bikes,adventure-works\linda3,2006-08-01 00:00:00.000,linda,2006,8,1,Female
+29663,Local Hardware Factory,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+29666,South Bike Company,adventure-works\garrett1,2007-08-01 00:00:00.000,garrett,2007,8,1,Female
+29668,Discount Bicycle Specialists,adventure-works\jillian0,2005-11-01 00:00:00.000,jillian,2005,11,1,Female
+29671,Machines & Cycles Store,adventure-works\garrett1,2007-07-01 00:00:00.000,garrett,2007,7,1,Male
+29673,Two Wheels Cycle Store,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Male
+29674,Westside Cycle Store,adventure-works\jillian0,2005-12-01 00:00:00.000,jillian,2005,12,1,Male
+29677,Urban Sports Emporium,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Male
+29680,Sixth Bike Store,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+29682,Vehicle Shop,adventure-works\shu0,2005-10-01 00:00:00.000,shu,2005,10,1,Male
+29683,First Department Stores,adventure-works\david8,2006-07-01 00:00:00.000,david,2006,7,1,Female
+29684,Grand Sport Boutique,adventure-works\michael9,2006-08-01 00:00:00.000,michael,2006,8,1,Male
+29686,Distinctive Store,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+29688,Handy Bike Services,adventure-works\michael9,2005-08-01 00:00:00.000,michael,2005,8,1,Male
+29689,Friendly Bike Shop,adventure-works\david8,2006-07-01 00:00:00.000,david,2006,7,1,Male
+29690,Fashionable Bikes and Accessories,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+29692,Citywide Service and Repair,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Male
+29695,Rugged Bikes,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Female
+29696,Principal Bike Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29698,Finer Riding Supplies,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+29699,Neighborhood Store,adventure-works\garrett1,2006-08-01 00:00:00.000,garrett,2006,8,1,Male
+29702,Paint Supply,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+29703,Preferred Bikes,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+29705,Rewarding Activities Company,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Female
+29708,Stationary Bikes and Stands,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+29709,Successful Sales Company,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Female
+29710,Downtown Hotel,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+29711,Certified Sports Supply,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Female
+29713,Rampart Amusement Company,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Male
+29714,Sundry Sporting Goods,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+29716,Farthermost Bike Shop,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+29717,Suburban Cycle Shop,adventure-works\david8,2005-08-01 00:00:00.000,david,2005,8,1,Female
+29719,Racing Bike Outlet,adventure-works\david8,2006-11-01 00:00:00.000,david,2006,11,1,Female
+29720,Utilitarian Sporting Goods,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+29722,Vigorous Exercise Company,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+29727,Stock Parts and Supplies,adventure-works\david8,2007-08-01 00:00:00.000,david,2007,8,1,Male
+29728,Roadway Supplies,adventure-works\shu0,2005-11-01 00:00:00.000,shu,2005,11,1,Male
+29730,Future Bikes,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Female
+29732,Satin Finish Company,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+29733,Regional Manufacturing,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+29734,Original Bicycle Supply Company,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Female
+29736,Action Bicycle Specialists,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+29737,Roadway Bike Emporium,adventure-works\pamela0,2007-07-01 00:00:00.000,pamela,2007,7,1,Male
+29738,Sleek Bikes ,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Female
+29739,Retail Sporting Equipment,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29740,Price-Cutter Discount Bikes,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Female
+29741,Central Bicycle Specialists,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+29742,Vast Bike Sales and Rental,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+29743,Summer Sports Place,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+29744,Real Sporting Goods,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Male
+29747,The Bike Shop,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Female
+29748,Safe Toys,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+29750,Our Sporting Goods Store,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+29753,Coho Sports,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Female
+29755,Quick Delivery Service,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Female
+29757,Basic Sports Equipment,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+29758,Cash & Carry Bikes,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+29761,General Bike Corporation,adventure-works\garrett1,2005-07-01 00:00:00.000,garrett,2005,7,1,Female
+29763,Retail Cycle Shop,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+29764,Social Activities Club,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+29765,Blue Bicycle Company,adventure-works\michael9,2006-08-01 00:00:00.000,michael,2006,8,1,Male
+29766,General Riding Supplies,adventure-works\garrett1,2007-02-01 00:00:00.000,garrett,2007,2,1,Male
+29768,Riding Excursions,adventure-works\linda3,2006-01-01 00:00:00.000,linda,2006,1,1,Male
+29769,Unique Bikes,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+29770,Rural Cycle Emporium,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+29771,Associated Bikes,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Male
+29772,Modular Cycle Systems,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Female
+29773,A Bike Store,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Male
+29774,Journey Sporting Goods,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+29775,Two Bike Shops,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Male
+29776,Cycles Wholesaler & Mfg.,adventure-works\jae0,2007-07-01 00:00:00.000,jae,2007,7,1,Female
+29778,Number One Bike Co.,adventure-works\jae0,2006-07-01 00:00:00.000,jae,2006,7,1,Male
+29780,Standard Bikes,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Male
+29781,The Bicycle Accessories Company,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29782,Active Systems,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Female
+29783,Futuristic Sport Distributors,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Female
+29784,Big-Time Bike Store,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Female
+29785,The Showroom,adventure-works\josé1,2005-11-01 00:00:00.000,josé,2005,11,1,Female
+29787,Year-Round Sports,adventure-works\david8,2005-08-01 00:00:00.000,david,2005,8,1,Male
+29788,The New Bike Store,adventure-works\linda3,2005-12-01 00:00:00.000,linda,2005,12,1,Male
+29789,Primary Bike Distributors,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+29792,Genial Bike Associates,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+29793,Commercial Sporting Goods,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29794,Wholesale Parts,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+29796,Riding Cycles,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Male
+29797,Metro Manufacturing,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+29799,Locks Company,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+29800,Latest Accessories Sales,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Male
+29803,Greater Bike Store,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Female
+29805,Distant Inn,adventure-works\shu0,2006-07-01 00:00:00.000,shu,2006,7,1,Female
+29806,Finer Mart,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Female
+29807,Cross-Country Riding Supplies,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+29809,Bike World,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29810,Central Discount Store,adventure-works\david8,2005-09-01 00:00:00.000,david,2005,9,1,Female
+29813,Sharp Bikes,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+29815,Metropolitan Sports Supply,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29816,Progressive Sports,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Male
+29818,Brakes and Gears,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+29819,The Accessories Store,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+29822,Family Cycle Store,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+29824,Superb Sales and Repair,adventure-works\garrett1,2005-07-01 00:00:00.000,garrett,2005,7,1,Female
+29826,Countryside Company,adventure-works\linda3,2006-10-01 00:00:00.000,linda,2006,10,1,Male
+29827,First Bike Store,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Female
+29830,General Department Stores,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Male
+29831,Operational Manufacturing,adventure-works\garrett1,2008-06-01 00:00:00.000,garrett,2008,6,1,Female
+29832,Online Bike Warehouse,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Male
+29834,Small Bike Shop,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+29835,Superior Hardware Distributors,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Male
+29840,Eastside Parts Shop,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+29842,First Cycle Store,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+29843,Running and Cycling Gear,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Male
+29847,Good Toys,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+29848,Little Bicycle Supply Shop,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Female
+29850,All Seasons Sports Supply,adventure-works\jillian0,2007-07-01 00:00:00.000,jillian,2007,7,1,Male
+29851,Leisure Clearing House,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+29852,The Commissary,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Male
+29853,Affordable Sports Equipment,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Female
+29854,Local Sales and Rental,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Male
+29855,Economy Center,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+29857,Area Sheet Metal Supply,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+29858,Synthetic Materials Manufacturing,adventure-works\pamela0,2006-01-01 00:00:00.000,pamela,2006,1,1,Male
+29859,Rural Sales and Service,adventure-works\jillian0,2006-03-01 00:00:00.000,jillian,2006,3,1,Male
+29860,Tubeless Tire Company,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+29861,Hardware Components,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Female
+29862,Retail Sporting Goods,adventure-works\shu0,2006-10-01 00:00:00.000,shu,2006,10,1,Male
+29863,Efficient Cycling,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+29864,General Industries,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+29865,Highway Bike Shop,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+29866,Rental Bikes,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+29867,Roving Sports,adventure-works\pamela0,2006-07-01 00:00:00.000,pamela,2006,7,1,Male
+29868,Express Bike Services,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+29870,Retail Discount Store,adventure-works\josé1,2008-06-01 00:00:00.000,josé,2008,6,1,Male
+29871,Vale Riding Supplies,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+29872,A Great Bicycle Company,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+29873,Certified Bicycle Supply,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Female
+29874,Exceptional Cycle Services,adventure-works\jae0,2007-07-01 00:00:00.000,jae,2007,7,1,Male
+29876,Leisure Activities,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+29877,Paints and Solvents Company,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Female
+29879,Bikes for Kids and Adults,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Male
+29881,Home Town Bike Store,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Female
+29883,Sample Bike Store,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Male
+29884,Extras Sporting Goods,adventure-works\jillian0,2007-03-01 00:00:00.000,jillian,2007,3,1,Male
+29885,Sure & Reliable Sporting Goods,adventure-works\david8,2005-08-01 00:00:00.000,david,2005,8,1,Male
+29889,Separate Parts Corporation,adventure-works\shu0,2005-07-01 00:00:00.000,shu,2005,7,1,Female
+29890,Basic Bike Company,adventure-works\david8,2005-07-01 00:00:00.000,david,2005,7,1,Female
+29891,"Fabrikam Inc., West",adventure-works\michael9,2006-09-01 00:00:00.000,michael,2006,9,1,Female
+29892,Non-Slip Pedal Company,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+29893,Weekend Bike Tours,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+29895,General Supplies,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+29897,Racing Toys,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Female
+29898,Capable Sales and Service,adventure-works\pamela0,2005-07-01 00:00:00.000,pamela,2005,7,1,Male
+29900,Road Way Sales and Rental,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Male
+29901,Sturdy Toys,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Male
+29902,Beneficial Exercises and Activities,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+29903,Fad Outlet,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Male
+29904,Commerce Bicycle Specialists,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+29905,Acceptable Sales & Service,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+29906,District Mall,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+29907,Fitness Supplies,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Female
+29908,Mail Market,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Male
+29910,Twelfth Bike Store,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Male
+29911,Consolidated Messenger,adventure-works\garrett1,2007-08-01 00:00:00.000,garrett,2007,8,1,Male
+29913,Field Trip Store,adventure-works\linda3,2006-08-01 00:00:00.000,linda,2006,8,1,Male
+29914,Finish and Sealant Products,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+29915,Finer Parts Shop,adventure-works\david8,2005-12-01 00:00:00.000,david,2005,12,1,Male
+29918,Up-To-Date Sports,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+29919,Mountain Bike Center,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+29920,Specialty Sports Store,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Male
+29921,Scooters and Bikes Store,adventure-works\pamela0,2005-09-01 00:00:00.000,pamela,2005,9,1,Female
+29922,Closest Bicycle Store,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+29924,Reasonable Bicycle Sales,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+29925,Outdoor Sports Supply,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+29926,Outdoor Aerobic Systems Company,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Male
+29928,Metal Clearing House,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+29929,Many Bikes Store,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+29930,Largest Bike Store,adventure-works\jillian0,2005-11-01 00:00:00.000,jillian,2005,11,1,Male
+29931,Kickstands and Accessories Company,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+29932,Instruments and Parts Company,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+29934,Gear-Shift Bikes Limited,adventure-works\josé1,2006-12-01 00:00:00.000,josé,2006,12,1,Male
+29935,Frugal Bike Shop,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Female
+29936,Family Entertainment Center,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Male
+29937,Go-cart and Bike Specialists,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Female
+29938,Trailblazing Sports,adventure-works\shu0,2005-09-01 00:00:00.000,shu,2005,9,1,Male
+29939,Racing Partners,adventure-works\josé1,2007-09-01 00:00:00.000,josé,2007,9,1,Male
+29941,Exhibition Showroom,adventure-works\jae0,2007-07-01 00:00:00.000,jae,2007,7,1,Female
+29942,Authorized Bike Sales and Rental,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Male
+29943,Two-Seater Bikes,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Unknown
+29944,More Bikes!,adventure-works\linda3,2005-09-01 00:00:00.000,linda,2005,9,1,Female
+29946,National Manufacturing,adventure-works\garrett1,2005-08-01 00:00:00.000,garrett,2005,8,1,Female
+29948,Town Industries,adventure-works\jillian0,2007-09-01 00:00:00.000,jillian,2007,9,1,Female
+29949,Security Racks and Locks Wholesalers,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Male
+29950,Rapid Bikes,adventure-works\josé1,2005-09-01 00:00:00.000,josé,2005,9,1,Male
+29952,Nearby Sporting Goods,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+29953,Front Sporting Goods,adventure-works\pamela0,2006-08-01 00:00:00.000,pamela,2006,8,1,Male
+29954,Elite Bikes,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Male
+29955,Catalog Store,adventure-works\michael9,2005-08-01 00:00:00.000,michael,2005,8,1,Male
+29956,Chic Department Stores,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Unknown
+29957,Eastside Department Store,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+29959,Cycle Merchants,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+29962,Fitness Hotel,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+29964,Grand Industries,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Female
+29967,Leading Sales & Repair,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+29969,Tandem Sales and Service,adventure-works\garrett1,2005-09-01 00:00:00.000,garrett,2005,9,1,Male
+29971,Reliable Retail Center,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+29973,Friendly Bike Shop,adventure-works\michael9,2005-10-01 00:00:00.000,michael,2005,10,1,Female
+29974,Yellow Bicycle Company,adventure-works\jillian0,2005-07-01 00:00:00.000,jillian,2005,7,1,Male
+29975,Sports Products Store,adventure-works\linda3,2006-09-01 00:00:00.000,linda,2006,9,1,Male
+29978,Shipping Specialists,adventure-works\jae0,2008-02-01 00:00:00.000,jae,2008,2,1,Male
+29980,Authentic Sales and Service,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+29981,Official Parts Shop,adventure-works\pamela0,2006-07-01 00:00:00.000,pamela,2006,7,1,Female
+29982,Discount Tours,adventure-works\shu0,2005-12-01 00:00:00.000,shu,2005,12,1,Female
+29983,Tire Exchange,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+29985,Oils and Fluids Warehouse,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+29987,Rally Master Company Inc,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Male
+29988,Professional Cyclists,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Male
+29990,Exclusive Bicycle Mart,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Female
+29991,City Manufacturing,adventure-works\pamela0,2006-11-01 00:00:00.000,pamela,2006,11,1,Male
+29992,Bike Dealers Association,adventure-works\shu0,2005-07-01 00:00:00.000,shu,2005,7,1,Female
+29994,"Health Spa, Limited",adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Female
+29997,Closeout Boutique,adventure-works\david8,2006-08-01 00:00:00.000,david,2006,8,1,Female
+29998,Bicycle Merchandise Warehouse,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Female
+30000,Leather Seat Factory,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Male
+30003,Practical Bike Supply Company,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+30004,Some Discount Store,adventure-works\pamela0,2005-08-01 00:00:00.000,pamela,2005,8,1,Female
+30005,Variety Cycling,adventure-works\jae0,2007-08-01 00:00:00.000,jae,2007,8,1,Female
+30007,Remote Bicycle Specialists,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+30008,Friendly Neighborhood Bikes,adventure-works\jillian0,2007-06-01 00:00:00.000,jillian,2007,6,1,Male
+30010,Recommended Bicycles,adventure-works\garrett1,2005-11-01 00:00:00.000,garrett,2005,11,1,Male
+30012,Alpine Ski House,adventure-works\linda3,2005-11-01 00:00:00.000,linda,2005,11,1,Female
+30016,Seats and Saddles Company,adventure-works\garrett1,2006-11-01 00:00:00.000,garrett,2006,11,1,Male
+30018,All Cycle Shop,adventure-works\pamela0,2006-07-01 00:00:00.000,pamela,2006,7,1,Female
+30019,Tachometers and Accessories,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+30021,Low Price Cycles,adventure-works\josé1,2007-08-01 00:00:00.000,josé,2007,8,1,Male
+30022,Metropolitan Manufacturing,adventure-works\shu0,2005-11-01 00:00:00.000,shu,2005,11,1,Male
+30023,Orange Bicycle Company,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Male
+30024,Riding Associates,adventure-works\pamela0,2007-08-01 00:00:00.000,pamela,2007,8,1,Female
+30025,Essential Bike Works,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+30027,Engineered Bike Systems,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+30028,Professional Containers and Packaging Co.,adventure-works\shu0,2006-08-01 00:00:00.000,shu,2006,8,1,Female
+30029,One Bike Company,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Female
+30030,Cycling Goods,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Male
+30031,Cycle Clearance,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+30032,Black Bicycle Company,adventure-works\jillian0,2007-02-01 00:00:00.000,jillian,2007,2,1,Male
+30033,Transport Bikes,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+30034,Sellers of Cycles,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Female
+30035,Maintenance and Repair for Bicycles,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Female
+30036,Fitness Department Stores,adventure-works\shu0,2007-08-01 00:00:00.000,shu,2007,8,1,Female
+30037,Famous Bike Shop,adventure-works\garrett1,2006-09-01 00:00:00.000,garrett,2006,9,1,Male
+30039,Gift and Toy Store,adventure-works\jillian0,2006-07-01 00:00:00.000,jillian,2006,7,1,Male
+30040,Major Sporting Goods,adventure-works\linda3,2007-02-01 00:00:00.000,linda,2007,2,1,Female
+30042,Major Cycling,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+30044,Downhill Bicycle Specialists,adventure-works\jae0,2006-08-01 00:00:00.000,jae,2006,8,1,Male
+30045,Bike Experts,adventure-works\pamela0,2006-08-01 00:00:00.000,pamela,2006,8,1,Female
+30046,Extraordinary Bike Works,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
+30047,Valley Bicycle Distributors,adventure-works\shu0,2006-11-01 00:00:00.000,shu,2006,11,1,Male
+30048,Top Sports Supply,adventure-works\josé1,2006-07-01 00:00:00.000,josé,2006,7,1,Female
+30050,Metropolitan Bicycle Supply,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+30051,Honest Repair Service,adventure-works\pamela0,2007-07-01 00:00:00.000,pamela,2007,7,1,Male
+30052,Wheel Gallery,adventure-works\shu0,2005-07-01 00:00:00.000,shu,2005,7,1,Male
+30053,Top Bike Market,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Female
+30055,Bicycle Lines Distributors,adventure-works\jillian0,2006-08-01 00:00:00.000,jillian,2006,8,1,Female
+30056,Sparkling Paint and Finishes,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+30058,Plastic Parts Company,adventure-works\garrett1,2005-11-01 00:00:00.000,garrett,2005,11,1,Male
+30061,Big Cycle Mall,adventure-works\jillian0,2007-08-01 00:00:00.000,jillian,2007,8,1,Male
+30063,Eighth Bike Store,adventure-works\shu0,2007-08-01 00:00:00.000,shu,2007,8,1,Female
+30064,Demand Distributors,adventure-works\david8,2006-06-01 00:00:00.000,david,2006,6,1,Female
+30067,Red Bicycle Company,adventure-works\josé1,2005-07-01 00:00:00.000,josé,2005,7,1,Female
+30069,Trendy Department Stores,adventure-works\shu0,2007-09-01 00:00:00.000,shu,2007,9,1,Male
+30070,Vintage Sport Boutique,adventure-works\david8,2007-07-01 00:00:00.000,david,2007,7,1,Female
+30071,Travel Sports,adventure-works\pamela0,2007-09-01 00:00:00.000,pamela,2007,9,1,Male
+30072,West Side Mart,adventure-works\jae0,2007-09-01 00:00:00.000,jae,2007,9,1,Female
+30074,Tenth Bike Store,adventure-works\josé1,2005-08-01 00:00:00.000,josé,2005,8,1,Female
+30076,Fun Times Club,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Female
+30080,Wingtip Toys,adventure-works\david8,2007-09-01 00:00:00.000,david,2007,9,1,Female
+30083,Active Life Toys,adventure-works\josé1,2006-09-01 00:00:00.000,josé,2006,9,1,Male
+30087,Quick Parts and Service,adventure-works\garrett1,2007-09-01 00:00:00.000,garrett,2007,9,1,Male
+30089,Thrifty Parts and Sales,adventure-works\linda3,2007-09-01 00:00:00.000,linda,2007,9,1,Male
+30090,A Typical Bike Shop,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Female
+30093,Fasteners & Bolts Outlet,adventure-works\garrett1,2007-08-01 00:00:00.000,garrett,2007,8,1,Female
+30094,Quantity Discounts,adventure-works\linda3,2006-08-01 00:00:00.000,linda,2006,8,1,Male
+30095,Swift Cycles,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+30098,Large Bike Shop,adventure-works\garrett1,2006-07-01 00:00:00.000,garrett,2006,7,1,Female
+30100,Wire Baskets and Parts,adventure-works\linda3,2005-08-01 00:00:00.000,linda,2005,8,1,Male
+30102,Sports Store,adventure-works\jae0,2006-12-01 00:00:00.000,jae,2006,12,1,Male
+30104,Extended Tours,adventure-works\jae0,2006-07-01 00:00:00.000,jae,2006,7,1,Female
+30105,Convenient Sales and Service,adventure-works\pamela0,2006-09-01 00:00:00.000,pamela,2006,9,1,Male
+30106,Solid Bike Parts,adventure-works\jillian0,2005-09-01 00:00:00.000,jillian,2005,9,1,Male
+30107,Permanent Finish Products,adventure-works\shu0,2005-08-01 00:00:00.000,shu,2005,8,1,Female
+30108,Mercantile Outlet,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+30109,Exhilarating Cycles,adventure-works\michael9,2006-07-01 00:00:00.000,michael,2006,7,1,Male
+30110,Exercise Center,adventure-works\shu0,2006-09-01 00:00:00.000,shu,2006,9,1,Male
+30111,Great Bicycle Supply,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+30112,Mail-Order Outlet,adventure-works\pamela0,2006-08-01 00:00:00.000,pamela,2006,8,1,Female
+30113,Nearby Cycle Shop,adventure-works\jae0,2006-09-01 00:00:00.000,jae,2006,9,1,Male
+30115,Retreat Inn,adventure-works\josé1,2006-08-01 00:00:00.000,josé,2006,8,1,Female
+30116,Technical Parts Manufacturing,adventure-works\shu0,2007-07-01 00:00:00.000,shu,2007,7,1,Female
+30117,Totes & Baskets Company,adventure-works\jillian0,2005-08-01 00:00:00.000,jillian,2005,8,1,Male
+30118,World of Bikes,adventure-works\jillian0,2006-09-01 00:00:00.000,jillian,2006,9,1,Female
