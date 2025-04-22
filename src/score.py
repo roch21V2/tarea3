@@ -1,4 +1,5 @@
 import json
+import typing as t
 from datetime import date, timedelta
 
 import joblib
@@ -23,14 +24,34 @@ def prepare_data(df: pd.DataFrame) -> pd.DataFrame:
     return df[["FirstNameLen", "ModifiedDate"]].reset_index(drop=True)
 
 
-def int_to_date(day_int: int, start_date: date = date(2005, 7, 1)) -> date:
+def int_to_date(day_int: int, start_date: t.Optional[date] = None) -> str:
+    """
+    Convert an integer to a date string in the format YYYY-MM-DD.
+
+    This function is specifically designed to this dataset
+    """
+
+    if start_date is None:
+        start_date = date(2005, 7, 1)
+
     result = start_date + timedelta(days=day_int)
     result = result.strftime("%Y-%m-%d")
     return result
 
 
-def run(raw_data):
-    try:  ## Try la predicci�n.
+def run(raw_data: str) -> str:
+    """
+    This function is called when the model is invoked.
+
+    raw_data: str
+        The input data in JSON format. It should contain a list of dictionaries
+        with the keys "FirstName" and "ModifiedDate".
+
+    Returns:
+        str: A JSON string containing the predicted dates
+    """
+
+    try:
         data = json.loads(raw_data)["data"][0]
         data = pd.DataFrame(data)
 
@@ -47,4 +68,4 @@ def run(raw_data):
 
         return json.dumps(result)
     except Exception as e:
-        return json.dumps(str(e))
+        return json.dumps({"error": str(e)})
