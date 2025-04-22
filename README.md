@@ -56,7 +56,7 @@
 │   ├── 00-raw          -> Directory for raw data files
 │   ├── 01-preprocess   -> Directory for preprocessed files
 ├── models          -> Directory for storing trained models
-├── notebooks       -> Directory for Jupyter notebooks
+├── notebooks       -> Directory for Jupyter notebooks for data exploration, analysis, and model deployment
 ├── src             -> Directory for score.py
 ... 
 ```
