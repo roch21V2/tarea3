@@ -8,12 +8,26 @@ from azureml.core.model import Model
 
 
 def init():
+    """
+    This function is called when initializing the serving endpint.
+    """
+
     global model
     model_path = Model.get_model_path("model")
     model = joblib.load(model_path)
 
 
 def prepare_data(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Prepares the data for prediction.
+
+    Args:
+        df (pd.DataFrame): The input DataFrame containing the data.
+
+    Returns:
+        pd.DataFrame: The prepared DataFrame with the necessary features.
+    """
+
     df = df[["FirstName", "ModifiedDate"]].sort_values(by="ModifiedDate")
     df["FirstNameLen"] = df["FirstName"].str.len()
     df["ModifiedDate"] = (
@@ -41,7 +55,7 @@ def int_to_date(day_int: int, start_date: t.Optional[date] = None) -> str:
 
 def run(raw_data: str) -> str:
     """
-    This function is called when the model is invoked.
+    This function is called when the model is invoked through the endpoint.
 
     raw_data: str
         The input data in JSON format. It should contain a list of dictionaries
