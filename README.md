@@ -1,57 +1,104 @@
-# tarea3
+# Despliegue de un servicio entrenado a partir de una base de datos SQL
 
+## Authors
 
+* **Nombre de mi equipo**: BookML.
+* **Repositorio de github**: `https://github.com/roch21V2/tarea3`
+* **Roles**
+  * Luis Angel: Departamento de modelos *(Creación de modelos de regresión lineal)*
+  * Jorge Rocha: Departamento de modelos *(Creación de modelos de random forest)*
+  * Pamela Ruiz: Departamento de datos *(Exploración de datos)*
+  * Gadiel Wisar: Departamento de datos *(Feature engineer)*
+  * Azahel Ramirez: Departamento de despliegue *(Despliegue del modelo en la nube)*
+  
+## Instalación
 
-### Preparación de los datos: 
-📊 prepare_data(df: pd.DataFrame) -> pd.DataFrame
-Esta función toma un DataFrame de Pandas que contiene al menos las columnas FirstName y ModifiedDate, y lo transforma para prepararlo para análisis o modelado. Devuelve un nuevo DataFrame con características procesadas.
+### Pre-requisitos
 
-🔧 ¿Qué hace exactamente?
-Filtra y ordena los datos
-Solo mantiene las columnas FirstName y ModifiedDate, y ordena las filas en función de la fecha (ModifiedDate), de la más antigua a la más reciente.
-Calcula la longitud de los nombres
-Crea una nueva columna llamada FirstNameLen, que contiene la longitud (número de caracteres) del nombre (FirstName).
-Normaliza las fechas
-Convierte las fechas de ModifiedDate en un número de días desde la fecha más antigua en el DataFrame. Esto ayuda a trabajar con fechas como una variable numérica.
-Devuelve el resultado
-El DataFrame final solo contiene dos columnas: FirstNameLen y ModifiedDate (en días desde el mínimo), y se resetea el índice.
-📥 Input esperado:
+* Python 3.10
+* (uv)[https://docs.astral.sh/uv/getting-started/installation/]
 
-Un DataFrame con al menos:
+### Pasos
 
-FirstName (str): Nombre de una persona
-ModifiedDate (datetime o str): Fecha asociada al registro
-📤 Output:
+1. **Clona el repositorio**: 
+   
+   ```bash
+   git clone https://github.com/roch21V2/tarea3
+   cd tarea3
+   ```
 
-Un DataFrame con:
+3. **Instala el proyecto**:
 
-FirstNameLen: Longitud del nombre
-ModifiedDate: Número de días desde la primera fecha en el dataset
+    ```bash
+    uv sync
+    ```
 
+4. **Obtén las variables de ambiente**:
 
-📊 Modelos de Regresión: Comparación entre Regresión Lineal y Random Forest
+    You must create a `.env` file with the following variables:
 
-Este proyecto compara el desempeño de dos modelos de regresión —Regresión Lineal y Random Forest— para predecir la columna ModifiedDate en función de la longitud del nombre (FirstNameLen).
+    ```bash
+    cp .env.example .env
+    ```
 
+    You must fill the `.env` file with your credentials following the example.
 
-### Creación de Modelos
-🧹 Preprocesamiento de Datos
-Se utiliza la columna FirstNameLen como variable independiente (X).
-La variable objetivo (y) es ModifiedDate, la cual originalmente es de tipo datetime.
+## Estructura del proyecto
 
-✂️ División de Datos
-Se dividen los datos en conjuntos de entrenamiento y prueba (80% - 20%) usando:
+```shell
 
+├── README.md       -> This file with the project description
+├── pyproject.toml  -> Project configuration file
+├── uv.lock         -> Project dependency lock file
+├── .env.example    -> Example of environment variables (must create a .env file)
+├── .python-version -> Python version used in the project
+├── data            -> Directory for storing data files
+│   ├── 00-raw          -> Directory for raw data files
+│   ├── 01-preprocess   -> Directory for preprocessed files
+├── models          -> Directory for storing trained models
+├── notebooks       -> Directory for Jupyter notebooks
+├── src             -> Directory for score.py
+... 
+```
 
+---
 
-🤖 Modelos Utilizados
-Regresión Lineal: Modelo simple que asume una relación lineal entre la variable independiente y la dependiente.
-Random Forest Regressor: Modelo de ensamble que utiliza múltiples árboles de decisión para mejorar la precisión.
+---
 
+## Instrucciones
 
-📈 Evaluación del Modelo
-Se utilizan tres métricas para comparar ambos modelos:
+1. Montar base de datos en SQL.
+   
+   Abran un servidor en Azure con la base de datos de prueba de SQL.
 
-Mean Squared Error (MSE): Promedio de los errores al cuadrado.
-Mean Absolute Error (MAE): Promedio de los errores absolutos.
-R² Score: Proporción de la varianza explicada por el modelo.
+2. Entrenar modelo usando dicha base de datos.
+
+    El modelo, una regresión, deberá predecir fecha de modificación (ModifiedDate) de la tabla SalesLT.customer.
+
+3. Desplegar servicio en la nube.
+
+## RÚBRICA DE EVALUACIÓN:
+
+* **2 pt.** Diferencia con los códigos vistos en clase.
+* **2 pt.** Dependencia de la IA. (Nada = 1 pt. Total = 0 pt.).
+* **3 pt.** Respeto a la confidencialidad.
+* **3 pt.** Calidad del repositorio:
+
+* Código en general (limpieza, legibilidad y funcionalidad).
+* Documentación.
+
+## FORMATO DE ENTREGA:
+
+* Suban los archivos necesarios para correr el API (no es necesario que suban los archivos para hacer el despliegue),
+* Con texto, de manera similar a la actividad 2, reporten lo ocurrido:
+
+### Ejemplo de texto de un entregable:
+
+* **Nombre de mi equipo**: Adeptus Mechanicus.
+* **Departamento**: Departamento de modelos.
+* **Puesto desempeñado**: Fabricador General de Marte.
+* **Repositorio de github**: https://github.com/admech/tarea_3_cloud_computing
+
+*Si no hallan la forma de subir los archivos necesarios, envíenlos por correo y notifiquen tal cuestión en el texto del entregable.*
+
+*Buena Suerte!*
